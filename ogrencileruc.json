@@ -1,0 +1,58 @@
+{"ogrenciler":}[
+		{
+		"ogrenciNo":"1",
+		"ogrenciAdi":"Mehmet"
+		"ogrenciSoyad":"Vatanlar"
+		"bolumAdi":"Fotoğrafçılık"
+		"okulAdi":"İstanbul Üniversitesi"
+		"ogrenciSinif":"3"
+		"ogrenciResim":"https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-666987.jpg"
+		},
+		{
+		"ogrenciNo":"2",
+		"ogrenciAdi":"Ezgi"
+		"ogrenciSoyad":"Ergin"
+		"bolumAdi":"Uluslararası İlişkiler"
+		"okulAdi":"Yakın Doğu Üniversitesi"
+		"ogrenciSinif":"2"
+		"ogrenciResim":"https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-666987.jpg"
+		},
+		{
+		"ogrenciNo":"3",
+		"ogrenciAdi":"Doğukan"
+		"ogrenciSoyad":"Sayın"
+		"bolumAdi":"Yazılım Mühendisliği"
+		"okulAdi":"Antalya Üniversitesi"
+		"ogrenciSinif":"1"
+		"ogrenciResim":"https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-666987.jpg"
+		},
+		{
+		"ogrenciNo":"4",
+		"ogrenciAdi":"Melisa"
+		"ogrenciSoyad":"Kazan"
+		"bolumAdi":"Hemşirelik"
+		"okulAdi":"Yakın Doğu Üniversitesi"
+		"ogrenciSinif":"1"
+		"ogrenciResim":"https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-666987.jpg"
+		},
+		{
+		"ogrenciNo":"5",
+		"ogrenciAdi":"Yaren"
+		"ogrenciSoyad":"Bengoğulları"
+		"bolumAdi":"Biyoloji Öğretmenliği"
+		"okulAdi":"Hacettepe Üniversitesi"
+		"ogrenciSinif":"2"
+		"ogrenciResim":"https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-666987.jpg"
+		},
+		{
+		"ogrenciNo":"6",
+		"ogrenciAdi":"Barış"
+		"ogrenciSoyad":"Çakar"
+		"bolumAdi":"Elektrik/Elektronik Mühendisliği"
+		"okulAdi":"Antalya Üniversitesi"
+		"ogrenciSinif":"1"
+		"ogrenciResim":"https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-666987.jpg"
+		}
+
+
+]}
