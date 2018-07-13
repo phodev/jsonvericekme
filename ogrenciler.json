@@ -1,0 +1,28 @@
+{"ogrenciler":}[
+		{
+		"ogrenciNo":"1",
+		"ogrenciAdi":"Mehmet"
+		"ogrenciSoyad":"Vatanlar"
+		"bolumAdi":"Fotoğrafçılık"
+		"okulAdi":"İstanbul Üniversitesi"
+		"ogrenciSinif":"3"
+		},
+		{
+		"ogrenciNo":"2",
+		"ogrenciAdi":"Ezgi"
+		"ogrenciSoyad":"Ergin"
+		"bolumAdi":"Uluslararası İlişkiler"
+		"okulAdi":"Yakın Doğu Üniversitesi"
+		"ogrenciSinif":"2"
+		},
+		{
+		"ogrenciNo":"3",
+		"ogrenciAdi":"Doğukan"
+		"ogrenciSoyad":"Sayın"
+		"bolumAdi":"Yazılım Mühendisliği"
+		"okulAdi":"Antalya Üniversitesi"
+		"ogrenciSinif":"1"
+		}
+
+
+]}
